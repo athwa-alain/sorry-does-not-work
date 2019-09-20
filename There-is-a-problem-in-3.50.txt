@@ -10,7 +10,7 @@
 <strong><p>==================</p></strong>
 <strong><p>🌙We have a second version working next to the blue version so that you can use 2 WhatsApp different numbers with the same mobile🌙</p></strong>
 <strong><p>🌙Second Edition (Brown) Features🌙</p></strong>
-<p><li>1️⃣You can lock conversations + you can hide conversations 👍</li></p>
+<p><li>1️⃣All features required by users of privacy + Lock conversations + Hide chats + You can stop receiving calls Discover the rest of the features when downloading 👍</li></p>
 <p><li>2️⃣Support for devices with the older version Kitkat or less (for those who encountered a problem was stopped WhatsApp at installation) 👍</li></p>
 <p><li>3️⃣Ability to know which message and status were deleted 👍</li></p>
 <p><li>4️⃣Exclusive extras 👍</li></p>
