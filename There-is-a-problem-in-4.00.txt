@@ -1,4 +1,4 @@
-{"version_code":8,"content":"
+{"version_code":5,"content":"
 <strong><p>بسم الله الرحمن الرحيم</p></strong>
 <strong><p>==================</p></strong>
 <strong><p>🌙لكثرة الطلب على واتساب أضواء العين ولله الحمد قمنا بعمل نسخة ثانية تعمل بجانب النسخة الخضراء بحيث يمكنك إستخدام واتسابين برقمين مختلفين بنفس الجوال🌙</p></strong>
@@ -10,7 +10,7 @@
 <strong><p>==================</p></strong>
 <strong><p>🌙We have a second version working next to the blue version so that you can use 2 WhatsApp different numbers with the same mobile🌙</p></strong>
 <strong><p>🌙Second Edition (Brown) Features🌙</p></strong>
-<p><li>1️⃣You can lock conversations + you can hide conversations 👍</li></p>
+<p><li>1️⃣All features required by users of privacy + Lock conversations + Hide chats + You can stop receiving calls Discover the rest of the features when downloading 👍</li></p>
 <p><li>2️⃣Support for devices with the older version Kitkat or less (for those who encountered a problem was stopped WhatsApp at installation) 👍</li></p>
 <p><li>3️⃣Ability to know which message and status were deleted 👍</li></p>
 <p><li>4️⃣Exclusive extras 👍</li></p>
