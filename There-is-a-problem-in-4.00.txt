@@ -26,7 +26,6 @@
 <p><li>8️⃣ An option to display the chat status next to it as (online now, last seen, write now) on the main screen 👍</li></p>
 <p><li>9️⃣ You can assign a popup (online now) notification for a specific contact👍</li></p>
 <p><li>🔟 Calls can be suspended for certain contacts 👍</li></p>
-
 <strong><p>==================</p></strong>
 <p>👇 لتحميل التحديث الجديد يرجئ الضغط بالأسفل على كلمة فـتـح ومن ثم الضغط على المستطيل الأخضر لبدء التحميل 👇</p>
 <strong><p>يمكنكم أيضاً تحميل التحديث الجديد من موقعناعلى الأنترنت أو قناتنا على التيليجرام</p></strong>
